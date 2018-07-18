@@ -60,6 +60,7 @@ object_script.*.Debug
 /.qmake.cache
 /.qmake.stash
 *.pro.user
+*.pro*
 *.pro.user.*
 *.qbs.user
 *.qbs.user.*
@@ -72,6 +73,7 @@ ui_*.h
 *.jsc
 Makefile*
 *build-*
+*build/*
 
 # Qt unit tests
 target_wrapper.*
@@ -112,6 +114,7 @@ CMakeLists.txt.user*
 *.creator.user*
 
 # Qt Creator backups
+
 
 
 # End of https://www.gitignore.io/api/qt,c++,linux,qtcreator
